@@ -16,7 +16,7 @@ Some of the topics that are going to be explained during this module are:
 - Introduction to TDD
 
 ## Presentation
-Presentation is available under [this link](uploads/7d1489ce064b14448f94ac98b6325e10/04_Software_Testing_v1.0.0.pptx.pdf)
+Presentation is available under [this link](https://gitlab.com/sda-international/program/java/testing-fundamentals/-/wikis/uploads/7d1489ce064b14448f94ac98b6325e10/04_Software_Testing_v1.0.0.pptx.pdf)
 
 # Further reading
 
